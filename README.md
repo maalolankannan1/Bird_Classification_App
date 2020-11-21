@@ -1,5 +1,5 @@
-# BIRDOO: A Bird Classification App
-An Android App to classify different species of birds
+# BIRDOO: A Bird Classification App <img src="./Photos/pp.png" alt="App Icon" height = 50px width=50px>
+#### An Android App to classify different species of birds
 
 ## **DESIGN APPROACH:**
 1.  The first step is to collect the dataset. The objective of the project was to classify Indian Birds. Hence, the dataset was collected from Kaggle.com and handpicked Google Images. 
